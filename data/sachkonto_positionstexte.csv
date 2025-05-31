@@ -1,0 +1,201 @@
+Sachkonto,Sachkontobeschreibung,Positionstext
+400000,Waren-Eingang,Wareneingang Lieferung Müller GmbH
+400000,Waren-Eingang,Rechnung über Bürobedarf
+400000,Waren-Eingang,Lieferung Druckerpapier
+400000,Waren-Eingang,Bestellung Tintenpatronen
+400000,Waren-Eingang,Lieferung Verpackungsmaterial
+400000,Waren-Eingang,Wareneingang Lager Berlin
+400000,Waren-Eingang,Rechnung für Versandkartons
+400000,Waren-Eingang,Bestellung Etiketten
+400000,Waren-Eingang,Lieferung Schreibmaterial
+400000,Waren-Eingang,Anlieferung Kugelschreiber
+400000,Waren-Eingang,Eingang Bestellung Monitorhalter
+400000,Waren-Eingang,Lieferung Notizblöcke
+400000,Waren-Eingang,Rechnung Versandmaterial
+400000,Waren-Eingang,Wareneingang Ordner
+400000,Waren-Eingang,Lieferung Whiteboard-Zubehör
+400000,Waren-Eingang,Rechnung Hefter und Locher
+400000,Waren-Eingang,Eingang Kopierpapier
+400000,Waren-Eingang,Wareneingang Kabelbinder
+400000,Waren-Eingang,Rechnung für Lagerregale
+400000,Waren-Eingang,Bestellung Packpapier
+440000,Fremdleistungen,Beratung durch externen Dienstleister
+440000,Fremdleistungen,Rechnung Webdesign-Agentur
+440000,Fremdleistungen,Fremdleistung Buchhaltung
+440000,Fremdleistungen,Externe IT-Dienstleistung
+440000,Fremdleistungen,Rechnung Übersetzungsdienst
+440000,Fremdleistungen,Externer Datenschutzbeauftragter
+440000,Fremdleistungen,Fremdleistung Projektmanagement
+440000,Fremdleistungen,Rechnung Marketingagentur
+440000,Fremdleistungen,Externe Schulung
+440000,Fremdleistungen,Beratung IT-Infrastruktur
+440000,Fremdleistungen,Bericht externes Audit
+440000,Fremdleistungen,Fremdleistung Rechnungsprüfung
+440000,Fremdleistungen,Leistung externer Entwickler
+440000,Fremdleistungen,Beratung Controlling
+440000,Fremdleistungen,Rechnung durch Berater
+440000,Fremdleistungen,Fremdleistung Vertragsprüfung
+440000,Fremdleistungen,Externer Lieferant Service
+440000,Fremdleistungen,Beratung Nachhaltigkeit
+440000,Fremdleistungen,Fremdleistung Websitepflege
+440000,Fremdleistungen,Rechnung Projektplanung
+480000,Reisekosten Inland,Hotelkosten Geschäftsreise Berlin
+480000,Reisekosten Inland,Fahrtkosten mit dem Zug
+480000,Reisekosten Inland,Taxikosten München Meeting
+480000,Reisekosten Inland,Parkgebühren Geschäftsreise
+480000,Reisekosten Inland,Rechnung Bahnfahrt Frankfurt
+480000,Reisekosten Inland,Hotelübernachtung Düsseldorf
+480000,Reisekosten Inland,Dienstreise Köln Spesen
+480000,Reisekosten Inland,Fahrtkosten zum Kunden
+480000,Reisekosten Inland,Mietwagen Geschäftsreise
+480000,Reisekosten Inland,Bahnfahrt Projektbesprechung
+480000,Reisekosten Inland,Hotelrechnung Konferenz
+480000,Reisekosten Inland,Rechnung Parkplatz Flughafen
+480000,Reisekosten Inland,Kilometergeld Außendienst
+480000,Reisekosten Inland,Taxi zur Messe
+480000,Reisekosten Inland,Bahnfahrt Kundentermin
+480000,Reisekosten Inland,Übernachtungspauschale
+480000,Reisekosten Inland,Dienstreise Nürnberg
+480000,Reisekosten Inland,Parken bei Kundenbesuch
+480000,Reisekosten Inland,Zugfahrt zur Schulung
+480000,Reisekosten Inland,Hotelkosten Seminar
+481000,Reisekosten Ausland,Flugreise London Kundentermin
+481000,Reisekosten Ausland,Hotelkosten Dienstreise Paris
+481000,Reisekosten Ausland,Taxi in New York
+481000,Reisekosten Ausland,U-Bahn-Ticket Madrid
+481000,Reisekosten Ausland,Spesen Brüssel
+481000,Reisekosten Ausland,Übernachtung Barcelona
+481000,Reisekosten Ausland,Reisekosten Ausland Rom
+481000,Reisekosten Ausland,Taxi Flughafen Lissabon
+481000,Reisekosten Ausland,Bahnfahrt Mailand
+481000,Reisekosten Ausland,Hotel Genf
+481000,Reisekosten Ausland,Flug nach Amsterdam
+481000,Reisekosten Ausland,Rechnung Auslandsreise
+481000,Reisekosten Ausland,Reisekosten Konferenz Prag
+481000,Reisekosten Ausland,Hotel Warschau
+481000,Reisekosten Ausland,Taxi Stockholm Meeting
+481000,Reisekosten Ausland,Metro-Ticket Paris
+481000,Reisekosten Ausland,Dienstreise Budapest
+481000,Reisekosten Ausland,Mahlzeit Ausland
+481000,Reisekosten Ausland,Flughafentransfer London
+481000,Reisekosten Ausland,Hotelbuchung Kopenhagen
+490000,Bewirtungskosten,Bewirtung Kundengespräch
+490000,Bewirtungskosten,Restaurantkosten Meeting
+490000,Bewirtungskosten,Mittagessen mit Geschäftspartner
+490000,Bewirtungskosten,Bewirtung Außendienst
+490000,Bewirtungskosten,Rechnung Restaurantbesuch
+490000,Bewirtungskosten,Verpflegung Kundenbesuch
+490000,Bewirtungskosten,Geschäftsessen Projektteam
+490000,Bewirtungskosten,Catering für Besprechung
+490000,Bewirtungskosten,Rechnung Mittagessen
+490000,Bewirtungskosten,Abendessen Vorstand
+490000,Bewirtungskosten,Bewirtung Messebesuch
+490000,Bewirtungskosten,Restaurantrechnung
+490000,Bewirtungskosten,Spesen Essen
+490000,Bewirtungskosten,Rechnung Geschäftsessen
+490000,Bewirtungskosten,Kosten Abendessen Kunden
+490000,Bewirtungskosten,Verpflegung Außendienstmitarbeiter
+490000,Bewirtungskosten,Lunch Kundengespräch
+490000,Bewirtungskosten,Catering interner Workshop
+490000,Bewirtungskosten,Getränke und Snacks
+490000,Bewirtungskosten,Besprechung mit Verpflegung
+500000,Büromaterial,Rechnung Büromaterial
+500000,Büromaterial,Bestellung Druckerpapier
+500000,Büromaterial,Lieferung Schreibwaren
+500000,Büromaterial,Toner-Nachfüllung
+500000,Büromaterial,Eingang Whiteboardmarker
+500000,Büromaterial,Rechnung Notizblöcke
+500000,Büromaterial,Lieferung Büroklammern
+500000,Büromaterial,Bestellung Ordner
+500000,Büromaterial,Rechnung Locher
+500000,Büromaterial,Eingang Stifte
+500000,Büromaterial,Büromaterial Kugelschreiber
+500000,Büromaterial,Rechnung Etiketten
+500000,Büromaterial,Papierbestellung
+500000,Büromaterial,Lieferung Druckerzubehör
+500000,Büromaterial,Bestellung Schreibtischunterlagen
+500000,Büromaterial,Lieferung Kalender
+500000,Büromaterial,Rechnung Bürobedarf
+500000,Büromaterial,Bestellung Marker
+500000,Büromaterial,Lieferung Hefter
+500000,Büromaterial,Rechnung Büroausstattung
+510000,Telefonkosten,Telefonrechnung Festnetz
+510000,Telefonkosten,Mobilfunkkosten März
+510000,Telefonkosten,Rechnung Telekom
+510000,Telefonkosten,Handyvertrag Außendienst
+510000,Telefonkosten,Mobilfunkkosten April
+510000,Telefonkosten,Telefonzentrale Rechnung
+510000,Telefonkosten,Telefongebühren
+510000,Telefonkosten,Rechnung Mobiltelefon
+510000,Telefonkosten,Handykosten Support
+510000,Telefonkosten,Rechnung Vodafone
+510000,Telefonkosten,Telefonnutzung Ausland
+510000,Telefonkosten,Telefonanlage Wartung
+510000,Telefonkosten,Telefon Flatrate
+510000,Telefonkosten,Telefonkosten Hotline
+510000,Telefonkosten,Mobilfunkabrechnung
+510000,Telefonkosten,Telefonie Meetingkosten
+510000,Telefonkosten,DSL und Telefon
+510000,Telefonkosten,Telekommunikation
+510000,Telefonkosten,SIM-Karte Geschäftsführung
+510000,Telefonkosten,Telefonkonferenzrechnung
+520000,IT-Hardware,Kauf Laptop
+520000,IT-Hardware,Rechnung Monitor
+520000,IT-Hardware,Lieferung Dockingstation
+520000,IT-Hardware,Bestellung PC
+520000,IT-Hardware,IT-Ausstattung Notebook
+520000,IT-Hardware,Kauf Tastatur
+520000,IT-Hardware,Lieferung Maus
+520000,IT-Hardware,Bestellung Scanner
+520000,IT-Hardware,Rechnung für Hardware
+520000,IT-Hardware,Kauf Ersatzteile
+520000,IT-Hardware,Lieferung Festplatte
+520000,IT-Hardware,IT-Zubehör Headset
+520000,IT-Hardware,Eingang Drucker
+520000,IT-Hardware,Hardwarebestellung
+520000,IT-Hardware,Kauf Ersatzmonitor
+520000,IT-Hardware,Lieferung USV
+520000,IT-Hardware,Rechnung Kabel
+520000,IT-Hardware,IT-Infrastruktur
+520000,IT-Hardware,Kauf Tablet
+520000,IT-Hardware,Rechnung Grafikkarte
+530000,IT-Software,Kauf Softwarelizenz
+530000,IT-Software,Rechnung MS Office
+530000,IT-Software,Update Virenschutz
+530000,IT-Software,Abo Buchhaltungssoftware
+530000,IT-Software,Softwareinstallation
+530000,IT-Software,Cloud-Service-Abrechnung
+530000,IT-Software,Rechnung Adobe Creative Cloud
+530000,IT-Software,ERP-Lizenzkosten
+530000,IT-Software,Abo Projektmanagement-Tool
+530000,IT-Software,Buchhaltungssoftware Rechnung
+530000,IT-Software,CRM-System Jahreslizenz
+530000,IT-Software,Rechnung für Software
+530000,IT-Software,SaaS-Nutzung
+530000,IT-Software,Rechnung PDF-Editor
+530000,IT-Software,Rechnung Cloudlösung
+530000,IT-Software,Wartung Software
+530000,IT-Software,Softwaremiete
+530000,IT-Software,Rechnung Antivirus
+530000,IT-Software,Abo Zeiterfassung
+530000,IT-Software,Lizensierung Software
+540000,Fortbildungskosten,Seminargebühren
+540000,Fortbildungskosten,Rechnung für Schulung
+540000,Fortbildungskosten,Weiterbildung Projektmanagement
+540000,Fortbildungskosten,Kursgebühr Excel
+540000,Fortbildungskosten,Workshop Präsentationstechniken
+540000,Fortbildungskosten,Fortbildung Führung
+540000,Fortbildungskosten,Onlineschulung
+540000,Fortbildungskosten,Teilnahme Zertifikatskurs
+540000,Fortbildungskosten,Rechnung Fortbildung
+540000,Fortbildungskosten,Webinar Agile Methoden
+540000,Fortbildungskosten,Coaching Geschäftsführung
+540000,Fortbildungskosten,Kurs Zeitmanagement
+540000,Fortbildungskosten,Rechnung E-Learning
+540000,Fortbildungskosten,Schulung Vertriebsmitarbeiter
+540000,Fortbildungskosten,Seminar Soft Skills
+540000,Fortbildungskosten,Kurs Kommunikation
+540000,Fortbildungskosten,Führungskräftetraining
+540000,Fortbildungskosten,Fortbildung Rechnungswesen
+540000,Fortbildungskosten,Onlinekurs
+540000,Fortbildungskosten,Teilnahmegebühr Training
