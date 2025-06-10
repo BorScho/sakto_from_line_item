@@ -3,6 +3,8 @@ This means to evaluate rather short texts to fit a ledger account number.
 Some things to try:
 + tf-idf encoding
 + word2vec
++ doc2vec
++ sBert
 + k-means
   and probably others that will pop-up while doing this...
 
